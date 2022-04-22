@@ -1,7 +1,5 @@
 
-# Web developer 👩‍💻
-
-### Olá, eu sou Tamiris Shigaki! 👋
+## Olá, eu sou Tamiris Shigaki! 🤓
 
 ```JavaScript
 const aboutMe = {

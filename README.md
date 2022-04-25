@@ -32,6 +32,7 @@ const contatcMe = () => ({
 
 ## GitHub
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=TamirisShigaki&count_private=true&show_icons=true&theme=material-palenight" />
 </a>
@@ -40,6 +41,7 @@ const contatcMe = () => ({
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamirisShigaki&layout=compact&theme=material-palenight" />
 </a>
+
 <br>
 
 <div style="display: inline_block"><br>
@@ -51,6 +53,7 @@ const contatcMe = () => ({
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+</div>
 </div>
 <br>
 

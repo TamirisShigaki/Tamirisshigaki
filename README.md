@@ -6,7 +6,6 @@
 <div>
   <img id="imgEu" align="left" width="200px" src="https://user-images.githubusercontent.com/94326866/165101316-e14cb889-48d8-4d6a-a6ea-e71efdff2b1b.png">
   </br>
-  </br>
   <p>Atualmente morro em Sumaré no interior de São Paulo, sou noiva de um DEV 👨‍💻 e tenho duas gatas, 😼 Frida e 😺 Pampam.</p>
   <p>Eu fui aquelas crianças que amava encher as pessoas de perguntas, ver as formas que ninguém via nas nuvens, adorava liderar as brincadeiras e     organizar as coisas com determinados padroẽs. E quando descobri a tecnologia percebi que tudo se encaixava, pois eu preciso ser tão curiosa ao ponto de   conseguir minhas próprias respostas, ser criativa pra estilizar um site mais incrível que o outro e ter organização pra estruturar o código.</p>
   <strong>Eu acredito que podemos impactar a vida das pessoas de diversas formas e saber que posso equilibra o lado criativo com o racional pra   desenvolver sites incríveis, me motiva a cada dia ser melhor!</strong>

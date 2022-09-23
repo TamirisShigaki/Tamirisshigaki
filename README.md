@@ -13,17 +13,6 @@
 </div>
 </br>
 
-## **Redes Sociais**
-
-<div align="center">
-</br>
-  <a href="https://www.linkedin.com/in/tamirisshigaki/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-   <a href="https://www.instagram.com/shigakii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://api.whatsapp.com/send?phone=5519989607222" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="mailto:shigakiendo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</div>
-</br>
-
 ## **+ Sobre Mim** 
 
 ```JavaScript
@@ -46,6 +35,17 @@ const contatcMe = () => ({
   Gmail: 'shigakiendo@gmail.com',
 });
 ```
+</br>
+
+## **Redes Sociais**
+
+<div align="center">
+</br>
+  <a href="https://www.linkedin.com/in/tamirisshigaki/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+   <a href="https://www.instagram.com/shigakii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://api.whatsapp.com/send?phone=5519989607222" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:shigakiendo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
 </br>
 
 <section><h2><strong>Tech Stack</strong></h2>
@@ -108,10 +108,10 @@ const contatcMe = () => ({
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=TamirisShigaki&count_private=true&show_icons=true&theme=material-palenight" />
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=TamirisShigaki&count_private=true&show_icons=true&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamirisShigaki&layout=compact&theme=material-palenight" />
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamirisShigaki&layout=compact&theme=material-palenight" />
 </a>
 

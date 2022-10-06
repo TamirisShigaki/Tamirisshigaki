@@ -20,7 +20,7 @@ const aboutMe = {
   name: 'Tamiris Shigaki',
   age: '26 years old';
   level: 'Junior',
-  languages: ['HTML5', 'CSS', 'JavaScript'],
+  languages: ['HTML5', 'CSS', 'JavaScript', 'Python'],
   tools: ['Bootstrap', 'Jest', 'React', 'RTL', 'Redux', 'Git'],
   softSkills: [
     'communication',

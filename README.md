@@ -7,7 +7,7 @@
   <img id="imgEu" align="left" width="230px" src="https://user-images.githubusercontent.com/94326866/165101316-e14cb889-48d8-4d6a-a6ea-e71efdff2b1b.png">
   <p>Atualmente sou estudante de Desenvolvimento de Software - Full stack na <a href="https://www.betrybe.com/" target="_blank" rel="external">Trybe</a></p>
 
-  <p>Sou formada em RH, morro em Sumaré no interior de São Paulo, amo series/filmes, a natureza 🌱 e bike, sou noiva de um DEV 👨‍💻 e tenho duas gatas, 😼 Frida e 😺 Pampam  e a cada dia me apaixono mais pela <strong>área de tecnologia!</strong></p>
+  <p>Sou formada em RH, moro em Sumaré no interior de São Paulo, amo series/filmes, a natureza 🌱 e bike, sou noiva de um DEV 👨‍💻 e tenho duas gatas, 😼 Frida e 😺 Pampam  e a cada dia me apaixono mais pela <strong>área de tecnologia!</strong></p>
   <p>Eu fui aquelas crianças que amava encher as pessoas de perguntas, ver as formas que ninguém via nas nuvens, adorava liderar as brincadeiras e     organizar as coisas com determinados padrões. E quando descobri a tecnologia percebi que tudo se encaixava, pois eu preciso ser tão curiosa ao ponto de   conseguir minhas próprias respostas, ser criativa pra estilizar um site mais incrível que o outro e ter organização pra estruturar o código.</p>
   <p align="center"><strong>Eu acredito que podemos impactar a vida das pessoas de diversas formas e saber que posso equilibra o lado criativo com o racional pra desenvolver projetos incríveis, me motiva a cada dia ser melhor!</strong></p>
 </div>

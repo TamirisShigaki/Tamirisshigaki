@@ -20,8 +20,8 @@ const aboutMe = {
   name: 'Tamiris Shigaki',
   age: '26 years old';
   level: 'Junior',
-  languages: ['HTML5', 'CSS', 'JavaScript', 'Python'],
-  tools: ['Bootstrap', 'Jest', 'React', 'RTL', 'Redux', 'Git'],
+  languages: ['HTML5', 'CSS', 'JavaScript', 'C#', 'Python'],
+  tools: ['Tailwindcss', 'Jest', 'React', 'RTL', 'Redux', 'Git'],
   softSkills: [
     'communication',
     'empathy',
@@ -33,6 +33,7 @@ const aboutMe = {
 const contatcMe = () => ({
   Linkedin: 'https://www.linkedin.com/in/tamirisshigaki/',
   Gmail: 'shigakiendo@gmail.com',
+  Cel: 19989607222,
 });
 ```
 </br>

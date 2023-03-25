@@ -1,13 +1,13 @@
 <div align="center"><h1> Olá, eu sou Tamiris Shigaki! 🤓</h1></div>
 
-<div align="center"><h3>Uma das minhas principais metas é criar aplicações incríveis pra você surpreender o seu alvo!</h3></div>
+<div align="center"><h3>Uma das minhas principais metas é criar aplicações incríveis para você surpreender o seu alvo!</h3></div>
 
 
 <div>
   <img id="imgEu" align="left" width="230px" src="https://user-images.githubusercontent.com/94326866/165101316-e14cb889-48d8-4d6a-a6ea-e71efdff2b1b.png">
-  <p>Concllui o curso de Desenvolvimento Web - Full stack na <a href="https://www.betrybe.com/" target="_blank" rel="external">Trybe</a> em dez/2022.</p>
+  <p>Conclui o curso de Desenvolvimento Web - Full stack na <a href="https://www.betrybe.com/" target="_blank" rel="external">Trybe</a> em jan/2023.</p>
 
-  <p>Sou formada em RH, moro em Sumaré no interior de São Paulo, amo series/filmes, a natureza 🌱 e bike, sou noiva de um DEV 👨‍💻 e tenho duas gatas, 😼 Frida e 😺 Pampam e a cada dia me apaixono mais pela <strong>área de tecnologia!</strong></p>
+  <p>Sou formada em Recursos Humanos e moro em Sumaré no interior de São Paulo, amo series/filmes, a natureza 🌱 e bike, sou noiva de um DEV 👨‍💻 e tenho duas gatas, 😼 Frida e 😺 Pampam e a cada dia me apaixono mais pela <strong>área de tecnologia!</strong></p>
   <p>Eu fui aquelas crianças que amava encher as pessoas de perguntas, ver as formas que ninguém via nas nuvens, adorava liderar as brincadeiras e     organizar as coisas com determinados padrões. E quando descobri a tecnologia percebi que tudo se encaixava, pois eu preciso ser tão curiosa ao ponto de   conseguir minhas próprias respostas, ser criativa pra estilizar um site mais incrível que o outro e ter organização pra estruturar o código.</p>
   <p align="center"><strong>Eu acredito que podemos impactar a vida das pessoas de diversas formas e saber que posso equilibra o lado criativo com o racional pra desenvolver projetos incríveis, me motiva a cada dia ser melhor!</strong></p>
 </div>
@@ -18,9 +18,9 @@
 ```JavaScript
 const aboutMe = {
   name: 'Tamiris Shigaki',
-  age: '26 years old';
+  age: '27 years old';
   level: 'Junior',
-  languages: ['HTML5', 'CSS', 'JavaScript', 'C#', 'Python'],
+  languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'C#','Python'],
   tools: ['Tailwindcss', 'Jest', 'React', 'RTL', 'Redux', 'Git'],
   softSkills: [
     'communication',
@@ -43,7 +43,6 @@ const contatcMe = () => ({
 <div align="center">
 </br>
   <a href="https://www.linkedin.com/in/tamirisshigaki/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-   <a href="https://www.instagram.com/shigakii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://api.whatsapp.com/send?phone=5519989607222" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:shigakiendo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
@@ -56,8 +55,9 @@ const contatcMe = () => ({
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-2CA5E0?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
 
@@ -74,7 +74,7 @@ const contatcMe = () => ({
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
 <h3>Test</h3>
 

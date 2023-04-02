@@ -19,13 +19,11 @@
 const aboutMe = {
   name: 'Tamiris Shigaki',
   level: 'Junior',
-  languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript', '.NET C#','Python'],
-  tools: ['Zustand', 'Vite', 'Prisma ORM', 'API Rest', 'Sequelize', 'Context API', 'MicroService', 'SQL', 'Hooks', 'PostegreSQL', 'Jest', 'Mongoose', 'SuperTest', 'Cypress', ...],
+  languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript', '.NET C#', 'Node.js', 'Python'],
+  tools: ['Zustand', 'Vite', 'Prisma ORM', 'API Rest', 'Sequelize', 'Context API', 'MicroService', 'SQL', 'Hooks',
+      'PostegreSQL', 'Jest', 'Mongoose', 'SuperTest', 'Cypress', ...],
   softSkills: [
-    'Comunicação',
-    'Empatia',
-    'Inteligencia Emocional',
-    'Organização',
+    'Comunicação', 'Empatia', 'Inteligencia Emocional', 'Organização',
   ]
 };
 ​

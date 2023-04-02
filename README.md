@@ -47,7 +47,7 @@ const contatcMe = () => ({
 </div>
 </br>
 
-<section><h2><strong>TTecnologias</strong></h2>
+<section><h2><strong>Tecnologias</strong></h2>
 
 <h3>Linguagens</h3>
 

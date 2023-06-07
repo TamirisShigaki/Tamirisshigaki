@@ -5,7 +5,7 @@
 
 <div>
   <img id="imgEu" align="left" width="230px" src="https://user-images.githubusercontent.com/94326866/165101316-e14cb889-48d8-4d6a-a6ea-e71efdff2b1b.png">
-  <p>Conclui o curso de Desenvolvimento Web - Full stack na <a href="https://www.betrybe.com/" target="_blank" rel="external">Trybe</a> em jan/2023.</p>
+  <p>Conclui o curso de Desenvolvimento Web - Full stack na <a href="https://www.betrybe.com/" target="_blank" rel="external">Trybe</a> em dez/2022.</p>
 
   <p>Sou formada em Recursos Humanos e moro em Sumaré no interior de São Paulo, amo series/filmes, a natureza 🌱 e bike, sou noiva de um DEV 👨‍💻 e tenho duas gatas, 😼 Frida e 😺 Pampam e a cada dia me apaixono mais pela <strong>área de tecnologia!</strong></p>
   <p>Eu fui aquelas crianças que amava encher as pessoas de perguntas, ver as formas que ninguém via nas nuvens, adorava liderar as brincadeiras e     organizar as coisas com determinados padrões. E quando descobri a tecnologia percebi que tudo se encaixava, pois eu preciso ser tão curiosa ao ponto de   conseguir minhas próprias respostas, ser criativa pra estilizar um site e ter organização pra estruturar o código.</p>
